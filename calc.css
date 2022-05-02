@@ -29,6 +29,7 @@
     display: grid;
     justify-items: end;
     align-items: end;
+    overflow:auto ;
 }
 
 .calc-screen p {
